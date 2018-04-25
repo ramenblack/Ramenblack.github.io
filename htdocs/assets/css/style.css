@@ -1,4 +1,4 @@
-`/*
+/*
  * Author: Carlos Alvarez
  * URL: http://alvarez.is
  *
@@ -172,7 +172,7 @@ input {
 	}	
 
 .btn-green {
-	background: #ff0058;
+	background: #f14249;
 	color: white
 }
 
@@ -330,7 +330,7 @@ ul {
 	padding-top: 90px;
 	padding-bottom: 60px;
 	min-height: 300px;
-	background: #ff004e;
+	background: #f14249;
 	color: white;
 }
 
@@ -362,5 +362,5 @@ ul {
 }
 
 #f a:hover {
-	color: #ff004e;
+	color: #03C9A9;
 }
