@@ -1,0 +1,25 @@
+[Fri Mar 09 12:53:48.841007 2018] [ssl:warn] [pid 1732] AH01906: flipper.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 09 12:53:48.841127 2018] [ssl:warn] [pid 1732] AH01909: flipper.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 09 12:53:49.279640 2018] [ssl:warn] [pid 1733] AH01906: flipper.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 09 12:53:49.279745 2018] [ssl:warn] [pid 1733] AH01909: flipper.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 09 12:53:49.281053 2018] [mpm_prefork:notice] [pid 1733] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri Mar 09 12:53:49.281080 2018] [core:notice] [pid 1733] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 09 14:00:16.049206 2018] [mpm_prefork:notice] [pid 1733] AH00169: caught SIGTERM, shutting down
+[Mon Mar 12 09:16:29.499455 2018] [ssl:warn] [pid 629] AH01906: flipper.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 12 09:16:29.508610 2018] [ssl:warn] [pid 629] AH01909: flipper.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 12 09:16:30.272293 2018] [ssl:warn] [pid 801] AH01906: flipper.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 12 09:16:30.272318 2018] [ssl:warn] [pid 801] AH01909: flipper.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 12 09:16:30.273840 2018] [mpm_prefork:notice] [pid 801] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon Mar 12 09:16:30.273853 2018] [core:notice] [pid 801] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 12 09:21:49.774587 2018] [mpm_prefork:notice] [pid 801] AH00171: Graceful restart requested, doing restart
+[Mon Mar 12 09:21:49.793034 2018] [ssl:warn] [pid 801] AH01906: flipper.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 12 09:21:49.793054 2018] [ssl:warn] [pid 801] AH01909: flipper.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 12 09:21:49.793176 2018] [mpm_prefork:notice] [pid 801] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon Mar 12 09:21:49.793181 2018] [core:notice] [pid 801] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 12 11:30:54.350188 2018] [mpm_prefork:notice] [pid 801] AH00169: caught SIGTERM, shutting down
+[Mon Mar 12 11:31:58.240468 2018] [ssl:warn] [pid 716] AH01906: flipper.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 12 11:31:58.269387 2018] [ssl:warn] [pid 716] AH01909: flipper.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 12 11:32:00.454950 2018] [ssl:warn] [pid 770] AH01906: flipper.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 12 11:32:00.454982 2018] [ssl:warn] [pid 770] AH01909: flipper.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 12 11:32:00.456871 2018] [mpm_prefork:notice] [pid 770] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon Mar 12 11:32:00.456888 2018] [core:notice] [pid 770] AH00094: Command line: '/usr/sbin/apache2'
